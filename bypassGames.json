@@ -1,12 +1,12 @@
 [
   {
-    "appId": "123123",
-    "name": "asdasdasd",
+    "appId": "1546990",
+    "name": "Grand Theft Auto: Vice City - The Definitive Edition",
     "image": "https://itsbintang.github.io/cdn/1546990.jpg",
     "bypasses": [
       {
-        "type": "1",
-        "url": "C:\\Users\\Nazril\\Documents\\Projek\\admin"
+        "type": "3",
+        "url": "http://cdn2.nzr.web.id/1546990_3.zip"
       }
     ]
   }
