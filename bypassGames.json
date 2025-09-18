@@ -9,5 +9,16 @@
         "url": "http://cdn2.nzr.web.id/1546990_3.zip"
       }
     ]
+  },
+  {
+    "appId": "582160",
+    "name": "Assassin's Creed Origins",
+    "image": "https://itsbintang.github.io/cdn/582160.jpg",
+    "bypasses": [
+      {
+        "type": "1",
+        "url": "https://bypass.nzr.web.id/582160_1.zip"
+      }
+    ]
   }
 ]
