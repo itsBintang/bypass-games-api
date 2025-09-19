@@ -31,5 +31,16 @@
         "description": ""
       }
     ]
+  },
+  {
+    "appId": "812140",
+    "name": "Assassin's Creed Odyssey",
+    "image": "https://itsbintang.github.io/cdn/812140.jpg",
+    "bypasses": [
+      {
+        "url": "https://bypass.nzr.web.id/812140.zip",
+        "description": ""
+      }
+    ]
   }
 ]
