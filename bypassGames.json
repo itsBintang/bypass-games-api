@@ -9,5 +9,16 @@
         "description": ""
       }
     ]
+  },
+  {
+    "appId": "1174180",
+    "name": "Red Dead Redemption 2",
+    "image": "https://itsbintang.github.io/cdn/1174180.jpg",
+    "bypasses": [
+      {
+        "url": "https://bypass.nzr.web.id/1174180.zip",
+        "description": ""
+      }
+    ]
   }
 ]
