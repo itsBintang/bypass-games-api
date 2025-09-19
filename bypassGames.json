@@ -141,5 +141,16 @@
         "description": ""
       }
     ]
+  },
+  {
+    "appId": "243470",
+    "name": "Watch Dogs",
+    "image": "https://itsbintang.github.io/cdn/243470.jpg",
+    "bypasses": [
+      {
+        "url": "https://bypass.nzr.web.id/243470.zip",
+        "description": ""
+      }
+    ]
   }
 ]
