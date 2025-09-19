@@ -152,5 +152,16 @@
         "description": ""
       }
     ]
+  },
+  {
+    "appId": "447040",
+    "name": "Watch Dogs 2",
+    "image": "https://itsbintang.github.io/cdn/447040.jpg",
+    "bypasses": [
+      {
+        "url": "https://bypass.nzr.web.id/447040.zip",
+        "description": ""
+      }
+    ]
   }
 ]
