@@ -42,5 +42,16 @@
         "description": ""
       }
     ]
+  },
+  {
+    "appId": "33230",
+    "name": "Assassin's Creed II",
+    "image": "https://itsbintang.github.io/cdn/33230.jpg",
+    "bypasses": [
+      {
+        "url": "https://bypass.nzr.web.id/33230.zip",
+        "description": ""
+      }
+    ]
   }
 ]
