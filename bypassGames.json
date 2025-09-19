@@ -9,38 +9,5 @@
         "description": ""
       }
     ]
-  },
-  {
-    "appId": "582160",
-    "name": "Assassin's Creed Origins",
-    "image": "https://itsbintang.github.io/cdn/582160.jpg",
-    "bypasses": [
-      {
-        "url": "https://bypass.nzr.web.id/582160_1.zip",
-        "description": "1"
-      }
-    ]
-  },
-  {
-    "appId": "1174180",
-    "name": "Red Dead Redemption 2",
-    "image": "https://itsbintang.github.io/cdn/1174180.jpg",
-    "bypasses": [
-      {
-        "url": "https://bypass.nzr.web.id/1174180_1.zip",
-        "description": "1"
-      }
-    ]
-  },
-  {
-    "appId": "812140",
-    "name": "Assassin's Creed Odyssey",
-    "image": "https://itsbintang.github.io/cdn/812140.jpg",
-    "bypasses": [
-      {
-        "url": "https://bypass.nzr.web.id/812140_1.zip",
-        "description": "1"
-      }
-    ]
   }
 ]
