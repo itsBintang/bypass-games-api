@@ -53,5 +53,93 @@
         "description": ""
       }
     ]
+  },
+  {
+    "appId": "201870",
+    "name": "Assassin's Creed Revelations",
+    "image": "https://itsbintang.github.io/cdn/201870.jpg",
+    "bypasses": [
+      {
+        "url": "https://bypass.nzr.web.id/201870.zip",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "appId": "2208920",
+    "name": " Assassin's Creed Valhalla",
+    "image": "https://itsbintang.github.io/cdn/2208920.jpg",
+    "bypasses": [
+      {
+        "url": "https://bypass.nzr.web.id/2208920.zip",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "appId": "242050",
+    "name": "Assassin's Creed IV Black Flag",
+    "image": "https://itsbintang.github.io/cdn/242050.jpg",
+    "bypasses": [
+      {
+        "url": "https://bypass.nzr.web.id/242050.zip",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "appId": "289650",
+    "name": "Assassin's Creed Unity",
+    "image": "https://itsbintang.github.io/cdn/289650.jpg",
+    "bypasses": [
+      {
+        "url": "https://bypass.nzr.web.id/289650.zip",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "appId": "3035570",
+    "name": "Assassin's Creed Mirage",
+    "image": "https://itsbintang.github.io/cdn/3035570.jpg",
+    "bypasses": [
+      {
+        "url": "https://bypass.nzr.web.id/3035570.zip",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "appId": "311560",
+    "name": "Assassin's Creed Rogue",
+    "image": "https://itsbintang.github.io/cdn/311560.jpg",
+    "bypasses": [
+      {
+        "url": "https://bypass.nzr.web.id/311560.zip",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "appId": "368500",
+    "name": "Assassin's Creed Syndicate",
+    "image": "https://itsbintang.github.io/cdn/368500.jpg",
+    "bypasses": [
+      {
+        "url": "https://bypass.nzr.web.id/368500.zip",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "appId": "48190",
+    "name": "Assassin's Creed Brotherhood",
+    "image": "https://itsbintang.github.io/cdn/48190.jpg",
+    "bypasses": [
+      {
+        "url": "https://bypass.nzr.web.id/48190.zip",
+        "description": ""
+      }
+    ]
   }
 ]
